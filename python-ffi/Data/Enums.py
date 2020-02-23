@@ -1,0 +1,2 @@
+toCharCode = ord
+fromCharCode = chr
